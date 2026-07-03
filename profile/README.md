@@ -163,9 +163,9 @@
 
 <table>
 <tr>
-<td align="center"><b>Pipe Escobar</b><br/><sub>Frontend · UX · DevOps</sub></td>
-<td align="center"><b>Kevin Castañeda</b><br/><sub>Backend · Infraestructura</sub></td>
-<td align="center"><b>Danna</b><br/><sub>Data Science · Modelos IA</sub></td>
+<td align="center"><b>Andrés Felipe Escobar Beltrán</b><br/><sub>Frontend · UX · DevOps</sub></td>
+<td align="center"><b>Kevin Alexis Castañeda Narváez</b><br/><sub>Backend · Infraestructura</sub></td>
+<td align="center"><b>Danna Valentina Martínez González</b><br/><sub>Data Science · Modelos IA</sub></td>
 </tr>
 </table>
 
