@@ -16,6 +16,25 @@
 
 ---
 
+## 👥 Equipo
+
+<table>
+<tr>
+<td align="center"><b>Andrés Felipe Escobar Beltrán</b><br/><sub>Frontend · UX · DevOps</sub></td>
+<td align="center"><b>Kevin Alexis Castañeda Narváez</b><br/><sub>Backend · Infraestructura</sub></td>
+<td align="center"><b>Danna Valentina Martínez González</b><br/><sub>Data Science · Modelos IA</sub></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🏆 Datos al Ecosistema 2026
+
+**Grupo #350** · Nivel Intermedio · Categoría: Transporte y Movilidad*
+
+
 </div>
 
 ## 🗺️ MoviCol
@@ -159,23 +178,6 @@
 
 ---
 
-## 👥 Equipo
-
-<table>
-<tr>
-<td align="center"><b>Andrés Felipe Escobar Beltrán</b><br/><sub>Frontend · UX · DevOps</sub></td>
-<td align="center"><b>Kevin Alexis Castañeda Narváez</b><br/><sub>Backend · Infraestructura</sub></td>
-<td align="center"><b>Danna Valentina Martínez González</b><br/><sub>Data Science · Modelos IA</sub></td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🏆 Datos al Ecosistema 2026
-
-**Grupo #350** · Nivel Intermedio · Categoría: Transporte y Movilidad*
 
 ---
 
