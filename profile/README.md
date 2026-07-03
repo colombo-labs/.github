@@ -173,9 +173,9 @@
 
 <div align="center">
 
-### 🏆 Participantes en [Datos al Ecosistema 2026](https://herramientas.datos.gov.co/)
+### 🏆 Datos al Ecosistema 2026
 
-*Categoría: Innovación Social — Transporte y Movilidad (Nivel Avanzado)*
+**Grupo #350** · Nivel Intermedio · Categoría: Transporte y Movilidad*
 
 ---
 
